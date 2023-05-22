@@ -1,6 +1,6 @@
 # Calculator
+![Screenshot 2023-05-22 205959](https://github.com/fakhravari/CalculatorFlutter/assets/4311975/921b674c-858d-41cf-8ffe-f921daec6810)
 
-![Flutter Light and Dark Theme with Bloc](https://user-images.githubusercontent.com/4311975/235372311-17d5a8a7-e8ee-44e1-8084-73b9be3c4621.gif)
 
 ## WebSite
 - [Fakhravari.ir](https://fakhravari.ir)
